@@ -1,0 +1,2 @@
+# AstralItemsConfigConverter
+Excelファイル(.xlsx)からAstralItemsの設定ファイルを作るやつ
