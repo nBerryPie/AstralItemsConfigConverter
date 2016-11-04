@@ -1,3 +1,5 @@
 build/
 .idea/
 .gradle/
+output/
+items.xlsx
