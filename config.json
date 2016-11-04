@@ -1,0 +1,12 @@
+{
+	"main": {
+		"id": 0,
+		"material": 1,
+		"damage": 2,
+		"name": 3,
+		"description": 4,
+		"rarity": 5,
+		"types": 6,
+		"file": 7
+	}
+}
